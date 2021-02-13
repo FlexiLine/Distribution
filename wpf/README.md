@@ -1,3 +1,3 @@
 # Windows Client APP  
 
-https://github.com/FlexiLine/Distribution/blob/master/wpf/setup.exe
+https://github.com/FlexiLine/Distribution/raw/master/wpf/setup.exe
