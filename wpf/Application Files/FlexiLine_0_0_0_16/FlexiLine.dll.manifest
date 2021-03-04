@@ -60,16 +60,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>BYeRAwTUBfr/TqgfD5TfSztKpAiYL18b19SZ7Pvh7mE=</dsig:DigestValue>
+      <dsig:DigestValue>DTfHTb+ktphHma+bScmVf2Y1L7LJOVy0i41V6jE/5Fc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FlexiLine.Common.dll" size="28672">
+  <file name="FlexiLine.Common.dll" size="31232">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oQeH4hEbbgqnDuz6xoqOFiblR5JKKuI6niGQWD+W9Io=</dsig:DigestValue>
+      <dsig:DigestValue>sDdyVp2Hn8v83ZLNMGFEasVTdlH/QGsCKXG+IzLMd9U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.Context.dll" size="7168">
@@ -78,7 +78,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UA/51fOjgkk1w8bAwPfartlpnT9hsZIsf9KW1m937CY=</dsig:DigestValue>
+      <dsig:DigestValue>+bKgyhUtHrGDhIo9p7h1rEnB3mi8uVguUsSE+sIZtQw=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.Db.dll" size="247296">
@@ -87,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>753J4ny2Hu0GceVL6yH55voy3uH/VPOlx9i5XJRuhRQ=</dsig:DigestValue>
+      <dsig:DigestValue>mrtAtnOGIldkdN7zRyOsEzX8fMAfd4bkESBGJdko2yU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.deps.json" size="114131">
@@ -105,16 +105,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5K5bT7eYcJN3cc9pWbCFOaH5jKILgLnomMDkBUZgrlE=</dsig:DigestValue>
+      <dsig:DigestValue>sI5sdLeeekSsILqD49WhlQBEd0GqSwLqOZKEhZzLOW0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FlexiLine.dll" size="100864">
+  <file name="FlexiLine.dll" size="105984">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qy4/yxgH4GOHkkf8wRojL3Ls65524vybIHh5opVTA4o=</dsig:DigestValue>
+      <dsig:DigestValue>9I1V88AA/reGgR0Qthb78xAtgpC9MbRag/O7HkgMgXA=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.Domain.dll" size="33792">
@@ -123,7 +123,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>+t+LHfNwY+W9ykSevo5LKS7ikkxTeaaOtle/FtZfRhI=</dsig:DigestValue>
+      <dsig:DigestValue>aR76pr3jze2+4BqHKWe9RpZ7mpPsoOP4mABZ+ORCZ8Q=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.exe" size="158208">
@@ -150,7 +150,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qLEmMBnazvv+iNnbodgI9yiWbJshXZVfdKH/skqUzYo=</dsig:DigestValue>
+      <dsig:DigestValue>t7kd1CNgWjams/nPl8Q3UJpk+5oiv4B0613SuN6GLvg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.Messaging.dll" size="12288">
@@ -159,7 +159,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>81CYcQrvfYC8hBC+jVTTuuWd8vwp3o2zY7ASBImtJYM=</dsig:DigestValue>
+      <dsig:DigestValue>0GcxawoF0dG9co/+ez1oUi4tK6aNskUGSo5dXth5aJU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.RealTimeDb.dll" size="8192">
@@ -168,7 +168,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1UoUExYbAnHGfXL0hc2TgHl/AoXQ7arBxGOnjfkW2ug=</dsig:DigestValue>
+      <dsig:DigestValue>PHRxg9qAIBjl4d4WO9ZIRKzKnCAsOGeFK7AF024XsPY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="FlexiLine.runtimeconfig.json" size="269">
@@ -186,16 +186,16 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>UqIFYOaerThNtNLmIPdbv1zxH2PMUMT0/G+Yic7VRCE=</dsig:DigestValue>
+      <dsig:DigestValue>8YwIphwWzVA8JjTUb0CXGnloDDNeaVdS92RHAR8KXPQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="FlexiLine.UseCase.dll" size="173568">
+  <file name="FlexiLine.UseCase.dll" size="174080">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>zLAa67TK4nZq3Ln9E5xF32fAqfHuGpEkgEp93LmLdOg=</dsig:DigestValue>
+      <dsig:DigestValue>42qxMp9ziWmWMdxlTL2ycEGbdHDLF9QghSbFnV91THo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Google.Api.CommonProtos.dll" size="306688">
