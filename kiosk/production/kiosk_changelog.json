@@ -1,6 +1,4 @@
 {
-    "updateUrl": "https://github.com/FlexiLine/Distribution/blob/master/kiosk/production/app-production-release.apk?raw=true",
-    "latestVersion": "2",
-    "latestVersionCode": 2,
-    "realeaseNotes": "New version"
+  "updateUrl": "https://github.com/FlexiLine/Distribution/blob/master/kiosk/production/app-production-release.apk?raw=true",
+  "versionCode": 1
 }
